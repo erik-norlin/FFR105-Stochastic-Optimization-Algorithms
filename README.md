@@ -6,4 +6,4 @@ Course FFR105 at Chalmers University. Focus here has been on classical optimizat
 
 Solarized dark             |  Solarized Ocean         |
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github.com/erik-norlin/FFR105-Stochastic-Optimization-Algorithms/blob/main/Home%20work%202/Plots/BestPath.png)https://github.com/erik-norlin/FFR105-Stochastic-Optimization-Algorithms/blob/main/Home%20work%202/Plots/BestPath.png)   |  ![]([https://...Ocean.png](https://github.com/erik-norlin/FFR105-Stochastic-Optimization-Algorithms/blob/main/Home%20work%202/Plots/gApprox.png)https://github.com/erik-norlin/FFR105-Stochastic-Optimization-Algorithms/blob/main/Home%20work%202/Plots/gApprox.png)
+![](https://github.com/erik-norlin/FFR105-Stochastic-Optimization-Algorithms/blob/main/Home%20work%202/Plots/BestPath.png?raw=true)  |  ![](https://github.com/erik-norlin/FFR105-Stochastic-Optimization-Algorithms/blob/main/Home%20work%202/Plots/gApprox.png?raw=true)
