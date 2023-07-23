@@ -1,5 +1,5 @@
 # FFR105-Stochastic-Optimization-Algorithms
-Course FFR105 at Chalmers University. Central parts here has been on classical optimization, evolutionary algorithms, ant colony optimization and particle swarm optimization.
+Central parts here has been on classical optimization, evolutionary algorithms, ant colony optimization and particle swarm optimization.
 
 Solving the travelling salesman problem using ant colony optimization | Finding optima using particle swarm optimization |
 :-------------------------:|:-------------------------:
